@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson2", "..\LevelUp-Hometasks\LevelUp.CsharpJuniors.Hometasks\Lesson2\Lesson2.csproj", "{4E28E796-B69C-4C24-AAF1-F2007590536B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson3", "..\LevelUp-Hometasks\LevelUp.CsharpJuniors.Hometasks\Lesson3\Lesson3.csproj", "{A2B9755E-3312-4E93-84BB-A0BFAFB61772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E28E796-B69C-4C24-AAF1-F2007590536B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E28E796-B69C-4C24-AAF1-F2007590536B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E28E796-B69C-4C24-AAF1-F2007590536B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E28E796-B69C-4C24-AAF1-F2007590536B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B9755E-3312-4E93-84BB-A0BFAFB61772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B9755E-3312-4E93-84BB-A0BFAFB61772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B9755E-3312-4E93-84BB-A0BFAFB61772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B9755E-3312-4E93-84BB-A0BFAFB61772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5607F329-59EA-4B50-81ED-131D03067F22}
+	EndGlobalSection
+EndGlobal
