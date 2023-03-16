@@ -1,0 +1,20 @@
+USE [MyShop]
+GO
+
+/****** Object:  Table [dbo].[OrderStatuses]    Script Date: 16.03.2023 21:18:39 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[OrderStatuses](
+	[Value] [tinyint] NOT NULL,
+	[Description] [nvarchar](300) NOT NULL,
+ CONSTRAINT [PK_OrderStatuses] PRIMARY KEY CLUSTERED 
+(
+	[Value] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+

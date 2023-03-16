@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Let's play with C#\nThis is hometask 6");
